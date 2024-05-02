@@ -1,10 +1,7 @@
-# Computer-Lab-III
-# Here is My Google Site : 
-https://sites.google.com/view/mobiwiz/home?authuser=0
+# photo-album-app
+A photo album website with Django &amp;  Images on AWS S3 Buckets.
 
-# Here is My Wordpress Site : 
-http://tradingguruji.unaux.com/
+Tutorial on youtube: https://youtu.be/sSquD2u5Ie0
+Muilti image upload tutorial: https://youtu.be/Ws7Wy5EHaXY
 
-# Here is My Glide Application : 
-https://customer-portal-sji7.glide.page
-
+![DEMO](../master/static/images/demo.jpg)
